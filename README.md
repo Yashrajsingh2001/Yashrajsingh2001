@@ -8,7 +8,7 @@
  </a> 
 <br> <br>
 
-🎓 I’m currently a pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Cloud Computing☁💙 <br />
+🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Cloud Computing☁💙 <br />
 ✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
 
 ## 🚀 Technologies 
