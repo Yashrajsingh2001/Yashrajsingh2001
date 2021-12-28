@@ -3,6 +3,9 @@
 <a href="https://linktr.ee/yashraj_2001">
   <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"   />
 </a>
+<a href="https://bio.link/yashraj_2001">
+  <img src="https://img.shields.io/badge/bio.link-66635d?style=for-the-badge&logo=biolink&logoColor=white"   />
+</a>
 <a href="https://www.linkedin.com/in/yashraj-singh-boparai-613a641a8/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
