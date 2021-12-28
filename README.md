@@ -1,4 +1,4 @@
-#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Yashraj](https://linktr.ee/yashraj_2001) !!
+#  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Yashraj](https://bio.link/yashraj_2001) !!
 
 <a href="https://linktr.ee/yashraj_2001">
   <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"   />
