@@ -29,5 +29,14 @@
 ### Databases ✔
 <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Yashrajsingh2001&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsingh2001&langs_count=5&theme=tokyonight)]() -->
+<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Yashrajsingh2001&count_private=true&theme=tokyonight&showicons=true)]() -->
+<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsingh2001&langs_count=5&theme=tokyonight)]() -->
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Yashrajsingh2001)](https://github.com/ryo-ma/github-profile-trophy) -->
+<!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashrajsingh2001&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true) -->
+<div align="center">
+  <h1> GitHub Streak 🔥 </h1>
+  
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajsingh2001)  
+
+</div>
+
