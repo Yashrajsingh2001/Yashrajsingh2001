@@ -6,11 +6,11 @@
 <a href="https://bio.link/yashraj_2001">
   <img src="https://img.shields.io/badge/bio.link-66635d?style=for-the-badge&logo=biolink&logoColor=white"   />
 </a>
-<a href="https://www.linkedin.com/in/yashraj-singh-boparai-613a641a8/">
+<a href="https://www.linkedin.com/in/yashraj-singh-boparai-613a641a8/"> <!--  GIF  -->
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
  </a> 
 <br> <br>
-
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Cloud Computing☁💙 <br />
 ✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
 
