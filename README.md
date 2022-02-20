@@ -1,5 +1,4 @@
 #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm [Yashraj](https://bio.link/yashraj_2001) !!
-
 <a href="https://linktr.ee/yashraj_2001">
   <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"   />
 </a>
@@ -32,7 +31,13 @@
 <!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Yashrajsingh2001&count_private=true&theme=tokyonight&showicons=true)]() -->
 <!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsingh2001&langs_count=5&theme=tokyonight)]() -->
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Yashrajsingh2001)](https://github.com/ryo-ma/github-profile-trophy) -->
-<!-- ![github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashrajsingh2001&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true) -->
+<div align="center">
+  <h1> Contribution Graph </h1>
+
+![github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashrajsingh2001&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
+
+</div>
+
 <div align="center">
   <h1> GitHub Streak 🔥 </h1>
   
