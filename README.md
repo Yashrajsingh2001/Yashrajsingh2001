@@ -1,49 +1,84 @@
-<!-- #  Hey There <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="32px"> I'm [Yashraj](https://bio.link/yashraj_2001) !! -->
-#  Hey There 👋🏻 I'm [Yashraj](https://bio.link/yashraj_2001) !!
-<a href="https://linktr.ee/yashraj_2001">
-  <img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"   />
-</a>
-<a href="https://bio.link/yashraj_2001">
-  <img src="https://img.shields.io/badge/bio.link-66635d?style=for-the-badge&logo=biolink&logoColor=white"   />
-</a>
-<a href="https://www.linkedin.com/in/yashraj-singh-boparai-613a641a8/"> <!--  GIF  -->
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> 
- </a> 
-<br> <br>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-🎓 I’m currently pursuing my Bachelors in Computer Science & Engineering and have a strong interest in Cloud Computing☁💙 <br />
-✨ I'm passionate about Docker🐋, Kubernetes🎡, and learning new things!
+<h1 align="center">Hi 👋, I'm Yashraj</h1>
 
-## 🚀 Technologies 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2000&pause=1000&color=00C7F7&background=1D1F21&center=true&vCenter=true&width=520&lines=Software+Development+Engineer;Passionate+about+Coding+%26+Learning;Frontend+%7C+Backend+%7C+Full-Stack;JavaScript+%7C+React+%7C+Node.js+%7C+TypeScript" alt="Typing SVG">
+</p>
 
-### Languages⚡
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /> <img src ="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src ="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src ="https://img.shields.io/badge/php-787CB5?style=for-the-badge&logo=php&logoColor=white" />
-
-### DevOps💙 
-<img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> 
-
-### Cloud ☁
-<img src="https://img.shields.io/badge/azure-3F3E42?style=for-the-badge&logo=microsoftazure&logoColor=008AD7" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src= "https://img.shields.io/badge/IBM-120263?style=for-the-badge&logo=ibmcloud&logoColor=008AD7" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/YOUR_DEVTO_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-black?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to" />
+  </a>
+</p>
 
 
-### Databases ✔
-<img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=00758F"> <img src="https://img.shields.io/badge/mongodb-3F3E42?style=for-the-badge&logo=mongodb&logoColor=4DB33D">
+<h2 align="center">🚀 About Me</h2>
+
+- 💻 I’m a Software Development Engineer passionate about **building scalable applications**.
+- 🧑‍💻 I love working with **JavaScript/TypeScript**, **React**, **Angular**, **Next** and **Node.js**.
+- 🌱 I’m always learning about **modern web technologies** and **cloud computing**.
+- 📚 Currently diving deep into **Next.js**.
+- 🛠️ I enjoy exploring **DevOps**, **CI/CD** pipelines, and **Docker**.
 
 
-<!-- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Yashrajsingh2001&count_private=true&theme=tokyonight&showicons=true)]() -->
-<!-- [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashrajsingh2001&langs_count=5&theme=tokyonight)]() -->
-<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=Yashrajsingh2001)](https://github.com/ryo-ma/github-profile-trophy) -->
-<div align="center">
-  <h1> Contribution Graph </h1>
+<h2 align="center">⚡ Fun Fact</h2>
 
-![github activity graph](https://activity-graph.herokuapp.com/graph?username=Yashrajsingh2001&theme=dracula&layout=compact&title_color=FF69B4&hide_border=true&area=true)
-
-</div>
-
-<div align="center">
-  <h1> GitHub Streak 🔥 </h1>
+- I believe **"Clean code is not just about fewer bugs, it's about being proud of the work you deliver!"**
   
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Yashrajsingh2001)  
 
-</div>
+<h2 align="center">📫 Connect with Me</h2>
+
+<p align="center">
+    <a href="https://linktr.ee/yashraj_2001" target="_blank">
+    <img src="https://img.shields.io/badge/Linktree-0077B5?style=for-the-badge&logo=linktree&logoColor=white" alt="Linktree" />
+  </a>
+  <a href="https://bio.link/yashraj_2001" target="_blank">
+    <img src="https://img.shields.io/badge/Bio.link-00C7F7?style=for-the-badge&logo=bio.link&logoColor=white" alt="Bio.link" />
+  </a>
+  <a href="mailto:yashrajcu@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/yashraj-singh-boparai/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://x.com/yashraj_2001" target="_blank">
+        <img src="https://img.shields.io/badge/X (Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+</p>
+
+
+
+<h2 align="center">⚙️ Languages & Tools</h2>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<p align="center">
+<!--   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/IBM%20Cloud-05A2E1?style=for-the-badge&logo=ibmcloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airtable-0052CC?style=for-the-badge&logo=airtable&logoColor=white" />
+</p>
+
+
 
